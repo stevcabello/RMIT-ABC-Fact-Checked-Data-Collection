@@ -3,7 +3,8 @@
 
 
 ## install dependencies:
-pip install -r requirements.txt 
+pip3 install -r requirements.txt
+pip3 install git+https://github.com/JustAnotherArchivist/snscrape.git
 
 
 ## ABC Fact Check scraping code
