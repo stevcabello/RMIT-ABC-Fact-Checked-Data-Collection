@@ -1,1 +1,8 @@
 beautifulsoup4
+requests
+pandas
+re
+datetime
+time
+datetime
+json
